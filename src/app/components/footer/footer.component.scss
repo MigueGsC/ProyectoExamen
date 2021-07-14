@@ -1,0 +1,39 @@
+.redes{
+    width: 100%;
+    height:auto;
+    text-align:right;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+}
+
+.container{
+    margin-bottom: 30px;
+    
+}
+    
+#contacto{
+    border-left: 1px solid white;
+}
+
+
+
+@media screen and (max-width:767px){
+    #contacto{
+        border-left: none;
+        margin-top: 30px;
+    }
+
+    .info{
+        margin-top: 50px;
+    }
+
+}
+
+
+
+.nombre{
+    margin-right:740px;
+    text-align:center;
+    height:auto;
+}
